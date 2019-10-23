@@ -8,9 +8,11 @@ int main(int argc, char* argv[])
   std::cout << "Hello World" << std::endl;
   printf("Hello World\n");
 
+<<<<<<< HEAD
 
-  //Nothing but net
-  //Added more
-  printf("MORE");
+  printf("ADDED at 3am\n");
+=======
+  printf("Hello world from class branch\n");
+>>>>>>> class
 
 }
